@@ -92,7 +92,7 @@ function App() {
 
   return (
     <>
-    <h1>Владос хуесос! </h1>
+    <h1>Бахарь лошок! </h1>
     <AppBar position="fixed">
       <Container fixed>
         <Toolbar>
